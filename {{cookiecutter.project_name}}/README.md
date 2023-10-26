@@ -1,6 +1,6 @@
 # {{ cookiecutter.friendly_name }}
 
-{{cookiecutter.description}}
+{{cookiecutter.project_description}}
 
 ## Issues
 
