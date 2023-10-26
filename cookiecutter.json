@@ -2,7 +2,7 @@
     "project_name": "project_name",
     "package_name": "{{ cookiecutter.project_name.replace('-', '_') }}",
     "friendly_name": "{{ cookiecutter.project_name.replace('-', ' ').title() }}",
-    "description": "A short description of the project.",
+    "project_description": "A short description of the project.",
     "author": "Viktor Due Pedersen",
     "email": "viktorduep@gmail.com",
     "github_user": "DueViktor",
