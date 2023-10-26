@@ -8,7 +8,6 @@ repos:
       - id: check-added-large-files # Prevent giant files from being committed.
 
   - repo: https://github.com/astral-sh/ruff-pre-commit
-    # Ruff version.
     rev: v0.1.3
     hooks:
       - id: ruff-format
