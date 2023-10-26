@@ -2,11 +2,6 @@
 
 {{cookiecutter.description}}
 
-## License
-
-Distributed under the terms of the [{{cookiecutter.license.replace("-", " ")}} license][license],
-_{{cookiecutter.friendly_name}}_ is free and open source software.
-
 ## Issues
 
 If you encounter any problems,
