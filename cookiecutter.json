@@ -8,5 +8,6 @@
     "github_user": "DueViktor",
     "version": "0.0.1",
     "copyright_year": "{% now 'utc', '%Y' %}",
+    "python_version": "^3.11",
     "license": "MIT"
 }
